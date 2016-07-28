@@ -1,3 +1,4 @@
+test
 Devise LDAP Authenticatable
 ===========================
 
